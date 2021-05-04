@@ -1,2 +1,3 @@
 # Flipkart-Clone
- Clone of Flipkart using html and css
+ Clone of Flipkart using HTML and CSS only
+ 
